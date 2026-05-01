@@ -8,7 +8,7 @@ Database Developer And Data Analyst
 Computer Engineer with 5+ years of experience in Linux Server Administration, Database Management (MySQL, Redis, ClickHouse, MariaDB), and Data Analytics. Proven track record of optimizing query performance by up to 90%, maintaining 99.9% server uptime, and automating ETL pipelines. Skilled in Python, Bash scripting, DevOps tooling, and cloud infrastructure (AWS). Strong communicator with experience leading daily standups and delivering stakeholder-ready dashboards in Power BI and Metabase.
 
 * 🌍  I'm based in Islamabad, Pakistan
-* 🖥️  See my portfolio at [Portfolio](http://https://github.com/nomeer)
+* 🖥️  See my portfolio at [Portfolio](https://github.com/nomeer)
 * ✉️  You can contact me at [nomeersh@gmail.com](mailto:nomeersh@gmail.com)
 * 🧠  I'm currently learning MS SQL
 * 👥  I'm looking to collaborate on Databases Project
